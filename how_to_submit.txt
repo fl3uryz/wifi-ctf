@@ -1,0 +1,37 @@
+To Submit a flag do the following:
+
+Copy the flag from it's location, it will be a long set of random numbers/letters.. Make sure you have the whole thing, no breaks or spaces.
+
+Run flag.sh like so:
+
+./flag.sh cbbe3ec55dd050e749918770af0a40b6d8192679
+
+This should ask for your passphrase if you have one. NOTE: YOU MUST DO THIS WITH THE GPG KEY YOU SUBMITTED TO THE CTF. Any other key won't count for your team.
+
+It will put out a GPG block like this:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1.4.13 (Darwin)
+Comment: GPGTools - http://gpgtools.org
+
+hQEMA2arWwywYxTkAQf+Jc9VBAcj25b1V0aIF6p5YPPEu4QBU5YG4Y94wzR8aIDv
+qFvN0vOpk8Jj62Sw2QxZ+Sb/KcycdOT0l+MW/FpFhenjDsC/l6YTA/ZjJA36iJz2
+vgc37gR22lvO0I1q+nb/3/sJdcrvBr+kI9bg1TwnxbR1qIqXt0RRIQiyCGOmyPEJ
+ItToU4kckv+wfUjuYtvsjzjMSLQrR1DuQ0VQPcFKpWv9PSSCHxVBnyRCMFKqXgIv
+b019cTtHWsjg6mkh9M6UB6K4AksC+W9r1N7UHxfIQfbfz+xSejWyoNu2BnCuN9SE
+sfUZmYAe2D/Bs3+4i7Le5Qf5g079FuTyMaUaSEVlT9LA3AHR7LnXA6d4mtma5eTC
+84OMWJHf4ooklgwcdwpwMo0k5J58AvFw/oiDVSCj69svEPPV+FTvQRZ6ScRUXKgU
+8AnG6Fr/D1Wop7t6g61kYgyCRhTPOEGOPBHDpTAcXDdg8sw6WaKwBCdELaEFM+G9
+oNhJSDXbBpA/3I0jLPn1r7N0OTczxgMpLmKTz2sCKSNJoxBBu+zBVfD+xcOidHS/
+92LahtRxf+HXgZZioe/UB7FARGYTWX0hekBbfaHk0LkZCuVFhfyo4AQ3WUBX+uIm
+8PnK5RiROxxnsQBG/KG5hdKppupjRysXCItmj1pmqde58JBo3qEEnKsj9dyTVoql
+3Y/Kb3ONKBm6GKVU3elYoi6cYlIzEjBsv/IBoVqflRoX5i1q/nR36uRrkM9zTLuc
+nFIsZQjBvjbNPc5UlINCiAZYubIuyP93ur0iRKJZ4QNpr2z2Z/Yr0TBCLI/M+wXX
+NpiKf45DsslM/TnTbMrrAc2RfBDcoIyrkqlEkjWaIAA6iCg9Sphqdr857zYU9EwW
+UEeGI+H9enWPGEoV65Q=
+=gMhp
+-----END PGP MESSAGE-----
+
+You must email this text block, and ONLY this text block to wifi-ctf@subba.net DO NOT USE YOUR EMAIL CLIENT TO SIGN/ENCRYPT MESSAGES TO THIS ADDRESS! These will not count as scores.
+
+The scoreboard updates every 3 mins. You should see your score posted the next round provided you followed all the instructions.

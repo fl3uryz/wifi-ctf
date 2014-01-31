@@ -1,0 +1,20 @@
+ [+] scanning (mon0), updates at 5 sec intervals, CTRL+C when ready.
+
+   NUM ESSID                 CH  ENCR  POWER  WPS?  CLIENT
+   --- --------------------  --  ----  -----  ----  ------
+    1  SHM00WCTF05           11  WPA2  54db    no 
+    2  SHM00WCTF01           11  WPA2  52db    no 
+    3  SHM00WCTF11            9  WPA2  51db   wps 
+    4  SHMOOWCTF06            7  WPA2  51db    no 
+    5  SHM00WCTF0A           11  WPA2  48db    no 
+    6  Elevate-E9BB           2  WPA2  42db   wps   clients
+    7  Shmoocon-WPA           1  WPA2  36db    no   clients
+    8  freeCupcakes           2  WPA2  30db    no 
+    9  hf-judge              11  WPA2  29db    no 
+   10  Shmoocon-WPA           4  WPA2  27db    no 
+   11  Shmoocon-WPA           4  WPA2  23db    no   clients
+   12  Shmoocon-WPA           1  WPA2  23db    no   client
+   13  ZRBDR                  1  WPA2  22db    no 
+
+ [0:01:13] scanning wireless networks. 13 targets and 25 clients found   
+

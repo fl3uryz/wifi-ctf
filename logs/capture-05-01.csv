@@ -1,0 +1,9 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+00:1C:10:8A:F8:35, 2014-01-18 16:44:40, 2014-01-18 16:54:53, 13,  54, OPN ,       ,   , -51,     4392,     5122, 192.168. 68.140,  11, SHM00WCTF02, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+00:11:74:43:C4:7F, 2014-01-18 16:44:54, 2014-01-18 16:49:53,   0,     6400, 00:1C:10:8A:F8:35,
+30:10:E4:75:5B:7B, 2014-01-18 16:45:02, 2014-01-18 16:54:48, -79,      172, 00:1C:10:8A:F8:35,
+24:0A:64:03:4A:A7, 2014-01-18 16:48:52, 2014-01-18 16:54:33, -54,     4020, 00:1C:10:8A:F8:35,
+
